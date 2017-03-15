@@ -1,0 +1,14 @@
+{
+  "name": "quick",
+  "version": "1.0.0",
+  "description": "http://mongodb.github.io/node-mongodb-native/2.2/quick-start/quick-start/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.24"
+  }
+}
