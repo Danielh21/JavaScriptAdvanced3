@@ -1,0 +1,15 @@
+{
+  "name": "primer",
+  "version": "1.0.0",
+  "description": "Tutorial found here: [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node populatedb mongodb://localhost:27017/primer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "mongoose": "^4.9.1"
+  }
+}
